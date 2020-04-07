@@ -1,0 +1,3022 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tmx version="1.4">
+    <header creationtool="Tmxmall Aligner" segtype="sentence" adminlang="de-DE" srclang="de-DE" datatype="xml" creationdate="20200221T120159Z" creationid="TM STUDIO"/>
+    <body>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Winter in Deutschland.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>德国的冬日</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wir glauben manchmal kaum noch, dass es ihn gibt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>我们有时都不敢相信 这里有冬天的存在</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch aus der Luft betrachtet erkennt man am besten, wie sehr sich unser Land verändert wenn Eis und Schnee regieren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不过从空中我们可以很好地观察到当冰雪来临时我们的国家会有多大的变化</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Von der Waterkant bis zum Watzmann.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>从北德海滨到瓦茨曼山</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Fliegen Sie mit auf unserer Winterreise durch die letzten Jahre.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>请您和我们一起领略过去这一年的冬日美景</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vom Bremer Weihnachtsmarkt bis in die Breitach-Klamm bei Oberstdorf. Aus der Perspektive der Vögel vergeht der Winter wie im Flug.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>从不莱梅的圣诞市场到奥伯斯多夫的布赖塔赫河山谷以空中飞鸟的视角感受飞逝的冬日</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Von der echten Eiszeit bis zur gefühlten Eiszeit an der Zugspitze.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>从真正的冰川时代到如今楚格峰上的严寒</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vom Silvesterfeuerwerk bis zum Orkan über der Nordsee.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>从跨年夜的烟花到北海上的风暴</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Ein Wintermärchen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>冬日童话</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der erste Schnee ist liegengeblieben.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>初雪还未融化</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Für diesen Steinadler beginnt deshalb jetzt die härteste Zeit des Jahres.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这只金雕迎来了一年中最艰难的日子</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Hier oben auf über 1500 Metern ist ab jetzt kaum noch ein Beutetier unterwegs, das die Adler jagen könnten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>从这个时候开始 超过1500米的高地上几乎没有可供金雕捕食的猎物了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Während im Tal die Herbstsonne noch die grüne Wiesen wärmt, wird es hier oben in den Berchtesgadener Alpen schon still.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>山谷里 当秋日的暖阳倾泻在碧绿的草地上时位于贝希特斯加登的阿尔卑斯山顶仍被寂静所笼罩</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und kalt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>天寒地冻</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Unten am Fuß der Berge scheint der Königssee noch fast sommerlich.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>位于山脚下的国王湖看上去几乎温暖如夏</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch beim Aufstieg zum Funtensee, der 1000 Meter höher liegt, wird es immer frostiger.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>沿山脚而上直至1000多米高的冯腾湖 随着高度的上升愈来愈冷</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der statistisch kälteste Ort in Deutschland liegt am Kärlinger Haus.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>据统计 德国最冷的地方位于德国卡林豪斯旅馆附近</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Mit automatischer Wetterstation.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>该数据是由自动气象站测出的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Heiligabend 2001 wurde in diesem Hochtal der deutsche Kälterekord gemessen: Minus 45,9 Grad.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>2001年圣诞夜前夕 在这片高地山谷中测出了德国历史上最低气温 零下45.9摄氏度</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Kein Wunder, dass die Hütte ab Mitte Oktober nur noch einen Winterraum für Skitouristen offenhält.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>难怪山中小屋自十月中旬起便对游人开放了冬日滑雪景区</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf den Almwiesen nutzen Murmeltiere die letzten Sonnenstrahlen, bevor sie in ihrem Bau verschwinden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>土拨鼠们享受着高山草甸上的最后一缕阳光之后它们便消失在自己的洞穴中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Fünf bis sieben Meter tief unter der Oberfläche, um dem Bodenfrost zu entgehen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>洞穴的深度为五至七米以此规避地面的霜冻</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Hier in den Nesthöhlen ihrer bis zu 100 Meter langen Gangsysteme werden sie die nächsten sechs bis sieben Monate verschlafen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们将在这个百米长的地道中睡上六到七个月</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Als überlebende der Eiszeit gehören Murmeltiere zu den längsten Winterschläfern der Welt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>土拨鼠是自冰川时期幸存下来的世界上冬眠时间最长的动物</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Sobald die Temperaturen häufiger unter Null fallen, verstopfen die Murmeltiere mit Lehm und Geröll die Eingänge zu ihrem Erdreich.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>一旦气温持续低于零度时土拨鼠们就会用粘土和碎石堵住它们地下王国的入口</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nichts regt sich dann mehr im Labyrinth unter der Oberfläche.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>地表之下的迷宫中 它们一动不动</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nur aus der Winter-Nesthöhle glimmt etwas Wärme.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>仅从冬眠巢穴中散发出些许热量</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Dort, wohin selbst der strengste Bodenfrost nicht vordringt, kuschelt der ganze Murmeltier-Clan gemeinsam.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>所有的土拨鼠们依偎在一起那里 最强的霜冻也无法侵入</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Während auf den Gipfeln der Berge immer mehr Schnee fällt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>而山顶上的雪早已越下越大</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bei plötzlichen Kälte-Einbrüchen ziehen sich die Alpen-Murmeltiere</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>即便严寒突然侵袭也无须担心</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>oft schon Ende September ins Berginnere zurück.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>阿尔卑斯山的土拨鼠们时常在九月底 就早早地躲进了山洞中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Noch bevor die letzten Almkühe ins Tal getrieben sind.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这比阿尔卑斯山牧场里的牛被赶入山谷里的时间还要早</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch "Winterschlaf" klingt gemütlicher als es ist:</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不过"冬眠"听起来要更顺耳一些</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Körpertemperatur sinkt unter zehn Grad.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>此时土拨鼠的体温降到10度以下</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und ihre Herzen schlagen nur noch zwei, drei Mal in der Minute.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>心率也只有两三下</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Es ist eher eine Kältestarre als ein erholsamer Schlaf.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>与其说是休眠 倒不如说它们是进入了僵硬状态</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vielleicht wachen die Murmeltiere deshalb alle zwei bis drei Wochen auf.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>正因为如此 土拨鼠可能每两三周会醒来一次</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Zuerst heizen die Alten ihre kalten Körper auf.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>首先 成年土拨鼠的体温会上升</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Dann folgen die Jungtiere in der Mitte.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>接着便是睡在中间的幼年土拨鼠</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>90% aller Energie, die während des Winterschlafs verbraucht wird, gehen in diese Aufwachphasen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>冬眠时消耗的百分之九十的能量都被用于苏醒阶段</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Forscher glauben, dass sie nötig sind, um das Immunsystem anzukurbeln. Oder um endlich einmal zu schlafen statt der anstrengenden Kältestarre.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>研究人员认为这对促进免疫系统来说是必不可少的或者代替过度消耗的僵硬状态以便再次入睡</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Draußen, auf den Gipfeln der Alpen, nimmt der Winter unterdessen Fahrt auf.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>巢穴之外 冬天在阿尔卑斯的山峰上开始了自己的旅程</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Meterdick liegt die weiße Pracht auf den höchsten Bergen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>一座座山峦上的积雪有数米之高</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und in Schnee und Eis getaucht wird nicht nur am Nebelhorn alles noch etwas stiller und langsamer.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>冰雪不仅覆盖了内波尔峰而且让一切都变得越发寂静且缓慢</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Selbst die Zeit scheint hier allmählich einzufrieren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>就连时间似乎也渐渐地冻结起来</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Zugspitze, Deutschlands höchster Berg, trägt selbst an den Steilhängen eine dünne weiße Wintermütze.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>德国之巅 楚格峰在悬崖峭壁上为自己戴上了一顶厚厚的白色冬帽</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In der Abenddämmerung, wenn auf den ersten Skistationen die Lichter angehen, kriecht der Winter auch ins Voralpenland.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当落日的余晖洒在第一批滑雪胜地时冬日的寒意蔓延到了阿尔卑斯的前部山地</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Verschneite Dörfer, Wälder und Kirchtürme lassen uns jedes Jahr von einer weißen Weihnacht träumen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>被白雪所覆盖的村落 森林和教堂的塔楼让我们每年都企盼着度过一个白色的梦幻圣诞节</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch in den meisten großen Städten bleibt es im Dezember erst einmal grau.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不过在大多数大城市十二月份还是灰蒙蒙的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Gegen trübe Stimmung zünden wir überall Lichter an und gehen auf den Weihnachtsmarkt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>为了驱散冬日的阴霾 我们在每个角落点燃了灯光然后去圣诞市场</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wie hier in der Fachwerk-Stadt Celle in Niedersachsen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>例如策勒 位于下萨克森州充满框架感建筑的城市</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In Frankfurt strahlt das historische Herz der Stadt mit den Wolkenkratzern um die Wette.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在法兰克福 摩天大楼竞相照亮着城市的历史中心</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch wenn die alten Gebäude am Römer nur Nachbauten sind.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>尽管这些老建筑都只是罗马风格的仿制建筑</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wo im Mittelalter schon Märkte stattfanden, scheint uns der Budenzauber am authentischsten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>市中心自中世纪便有了圣诞市场这让我们觉得狂欢真实存在</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In der Fuggerstadt Augsburg wird auf dem Christkindlesmarkt schon seit über 500 Jahren Weihnachtsgebäck verkauft.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在福格城奥格斯堡的圣诞市场上圣诞饼干的售卖历史已经超过了500年</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>1498 noch vor dem Dom und am Perlachturm.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>1498年圣诞市场开设在大教堂前 紧邻着佩拉赫塔</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Heute auf dem Rathausplatz.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如今则开设在市政厅广场上</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Im übrigen mit stromsparenden LED-Lämpchen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>此外 照明方面使用省电的LED小灯</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In Münchens Kaufinger Straße werden noch hektisch Weihnachtsgeschenke gekauft.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在慕尼黑的考芬格大街人们忙活着购买圣诞礼物</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch aus der Luft betrachtet liegt über dem Marienplatz vor dem Rathaus fast so etwas wie Frieden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>自空中俯视而下穿过玛利亚广场 市政厅前一派祥和</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>1310 gab es hier den ersten Münchner Weihnachtsmarkt, der damals noch Nikolausmarkt hieß.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>1310年这里出现了第一个慕尼黑圣诞市场当时还是叫尼古拉市场</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Heute wissen 10 % der Deutschen nicht mal genau, warum Weihnachten gefeiert wird.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如今10%的德国人仍不清楚庆祝圣诞节的原因</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und im Internet wird rund um die Feiertage verstärkt nach "Scheidungsrecht" gegoogelt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>谷歌上圣诞节的搜索频率仅次于"离婚法"</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Am Gärtnerplatz sorgt Festbeleuchtung dennoch unverdrossen für Romantik.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>闪亮通明的灯光为花园广场营造出了浪漫的氛围</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Genau wie an der Residenz.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>仿佛置身于王宫之中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und wenn Glühbirnen nicht mehr reichen, gibt es ja auch noch Glühwein.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>倘若灯光的效果不够好还有红葡萄酒呢</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der Alkoholkonsum steigt im Dezember um 36 %.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>十二月的酒精消耗上涨了36%</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Am Stachus verbreitet eine Kunsteisfläche auf 750 Quadratmetern verlässlich eine Ahnung von Winter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>卡尔广场的人造冰场扩展到了750平方米预示着冬天的降临</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und selbst die Theresienwiese, wo vor wenigen Wochen das Oktoberfest stattfand, trägt ein Weihnachtskleid.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>就在几周前刚刚举办了啤酒节的特蕾西亚草坪披上了圣诞新装</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vom historischen Hellweg in Dortmund strömen in der Vorweihnachtszeit 3,6 Millionen Besucher auf den Alten Markt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>圣诞前夕 从多特蒙德历史悠久的光明大街涌入到老集市上的游客就足有360万人</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf einen der größten deutschen Weihnachtsmärkte.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>汉萨广场是德国最大的圣诞集市之一</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf dem Hansaplatz strahlt dazu der höchste Tannenbaum der Welt:</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>集市上闪耀着这棵世界上最大的圣诞树</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>45 Meter hoch mit 48.000 Lichtern.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>四十五米高的树上挂着四万八千盏小灯</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>So etwas passt in kein Wohnzimmer.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>没有哪间客厅能容下这么个大家伙</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Hansestadt Bremen feiert Weihnachten vor einer der schönsten Kulissen:</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>汉莎城市不莱梅庆祝圣诞的地方是在这个城市最漂亮的区域</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Zwischen Rathaus, Bättchergasse und Dom.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在市政府 倍特希尔街和大教堂之间</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der Bremer Roland steht jetzt mitten im Trubel.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不莱梅的罗兰德雕像就处在喧闹之中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bei den Kindern steigt allmählich die Vorfreude.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>孩子们的欣喜之情与日俱增</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aber nicht überall verspricht der Dezember eine stille Nacht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>但不是每个地方十二月的夜晚都这般宁静祥和</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In Ostfriesland hängen die Wolken unterdessen fast bis auf den Erdboden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>此时的东弗里斯兰乌云压顶</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Es ist Sturmsaison.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>正值风暴季节</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf der Nordsee ist heute Orkan-Warnung.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>北海今日有飓风警告</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bis zu acht Meter hoch türmen sich die Wellen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>卷起的海浪有八米之高</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nur mit Helikoptern können die Lotsen bei so einem Seegang noch zu den Schiffen hinausgebracht werden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在这样的波涛中 领航人只能搭乘直升机才能把船只引领出去</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Schifffahrtsrouten in der Deutschen Bucht sind zu gefährlich, um sie ohne Lotsen zu befahren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>德国海湾中的航海路线都过于危险航行时不能没有领航员</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nur wenige von uns ahnen den Aufwand, den Sturmtage hier mit sich bringen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>我们中只有很少一部分人才能预测到风暴天带来的经济损失</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Denn der ständige Fluss der Waren darf auch während der Winterstürme nie zum Stillstand kommen</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>即便在冬季风暴中货物的运输也不能停歇</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>An der Pilot-Station Weser-Elbe holen Hubschrauber die Lotsen ab.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在威悉河和易北河处的引航站直升飞机把领航员接走</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schon das Einsteigen ist heute nichts für zart Besaitete.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>今天上飞机都是件难事</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>An solchen Orkantagen im Dezember walzt auch die "Hermann Helms" durch die schwere See.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在十二月的这种飓风天摇曳在波涛上的还有赫尔曼·赫尔姆斯号</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der Kreuzer führt für die Gesellschaft zur Rettung Schiffbrüchiger.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这种海上救援船肩负着海上急救的任务</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bei Windstärke 10 bis 11 ist die Lotsenbrüderschaft Bremerhaven pausenlos zu den Schiffen unterwegs.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当风力达到10至11级时不莱梅港领航员联合会的成员一刻不停地来往于船只之间</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Kein Tag für schwache Nerven.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>神经脆弱的人根本连一天都承受不来</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch die Seenotretter werden an solchen Tagen durch die Brandung geworfen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>海难救援人员也会在这样的天气里穿梭在汹涌的波涛中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Jeden Tag, 24 Stunden lang, sind 60 Kreuzer einsatzbereit.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每天24小时都有60艘救援船时刻待命</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf Helgoland wissen sie besonders gut, wie wild die Nordsee in jedem Winter wird.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每年冬天北海的波涛汹涌已被黑尔戈兰岛山的人们所熟知</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vor 300 Jahren riss eine Sturmflut Deutschlands einzige Hochsee-Insel in zwei Stücke: Den Felsen und die Düne.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>300年前德国的一场海啸把唯一的远洋小岛分割成了两部分：岩石和沙丘</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der Lotse ist inzwischen bei seinem Kunden angekommen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>领航员在这期间也到达了客户那里</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Einem Containerschiff aus Südamerika</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>一艘来自南美的货运船</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>40 Kilometer weit draußen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在40公里开外</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Das Winschen an Bord ist bei diesem Wetter wie eine Mutprobe.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这样的天气在直升机上收放钢索无疑是一种冒险</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Jedes Schiff braucht einen Lotsen, der alle Untiefen und alle Tücken des Reviers kennt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每艘船都需要一名领航员他熟知所有浅滩和水域内的隐患</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Seenotretter auf der Hermann Helms werden weiter von der Nordsee durchgeschüttelt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>赫尔曼·赫尔姆斯号上的海难救援人员将继续在北海的风浪中摇晃</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In so wilder Patrouillenfahrt verbrennt ein Kreuzer wie dieser in jeder Stunde nicht weniger als 1700 Liter Kraftstoff.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>救援船在这种极端恶劣的天气下巡航时每小时至少要消耗1700升的燃料</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der 250-Meter-Container-Frachter Conti Singa hat den Weg in die offene Nordsee geschafft.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这艘250米长的货船康蒂·辛加号平安渡过了通往北海的路</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nach 30 Seemeilen und auf Höhe der Insel Wangerooge wartet der Lotse an Bord jetzt auf seinen Rückflug zur Pilot-Station.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在万格罗格岛附近的海面上领航员行驶了30海里后正在甲板上等待返航</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vor den Felsen Helgolands macht sich inzwischen die Hermann Marwede auf den Weg.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在黑尔戈兰岛的山崖前 赫尔曼·玛维德号正航行在海面上</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der Orkan über der Nordsee will nicht nachlassen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>北海上的飓风并未减弱</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der Seenotkreuzer der Gesellschaft zur Rettung Schiffbrüchiger soll nah an den möglichen Einsatzorten sein.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在这种情况下海上救援船都会尽可能的事先赶到事故多发海域</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der Hubschrauber ist derweil bei der Conti Singa angekommen, um den Lotsen vom Vorderdeck aus abzuholen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>此时直升机也到达了康蒂·辛加号从前甲板上接走领航员</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Mindestens zwei Jahre muss jeder Lotse als Kapitändie Weltmeere befahren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在职业培训开始之前 每名领航员必须作为船长</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bevor die Ausbildung für sein Revier beginnt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在远洋航行中历练两年</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Geregelte Arbeitszeiten sind die Ausnahme.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>几乎没有朝九晚五的正常工作时间</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Lotsen müssen ausrücken, wenn ein Schiff ihr Revier erreicht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当一艘船到达他的区域时 领航员必须出动</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Egal, um welche Zeit oder bei welchem Wetter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>无论任何时间任何天气</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Eine Schlechtwetter-Pause ist im globalen Handel nicht vorgesehen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因恶劣天气而导致的货运延误在国际贸易中是无法预见的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>An Helgolands Kaimauern wütet weiter das Wetter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>黑尔戈兰岛的码头上阴风怒号 大雨滂沱</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aber einige Bewohner stört das nur wenig.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>但一些居民受到的干扰却很小</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Bade-Insel Helgoland-Düne wird jedes Jahr während der Sturmsaison zur Kinderstube, für Robenbabies.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>黑尔戈兰岛上的沙丘在每年的暴风季节时会变成海豹宝宝的游戏室</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Kurz vor Weihnachten liegen die ersten bereits im kalten Sand und warten mit großen Kulleraugen auf ihre Mütter, die im Meer nach Fischen jagen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>圣诞前夕 第一批新出生的宝宝们躺在冰冷的沙滩上睁着稚气的大眼睛等候着正在海里捕鱼的妈妈</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Papa döst derweil am Strand.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>爸爸这时还在沙滩上打盹</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Weit über 100 Robbenbabies kommen auf Helgoland jedes Jahr zur Welt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每年上百只海豹宝宝诞生在黑尔戈兰岛上</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die fette Muttermilch lässt den Nachwuchs in nur drei Wochen auf über 50 Kilo anwachsen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>富含丰富脂肪的母乳能让海豹宝宝们在三周内长到50公斤以上</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Helgolands Düne ist heute eine Art Traum-Insel für Meeressäuger.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如今岛上的沙丘使得黑尔戈兰成为海洋哺乳动物们的梦幻乐园</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vor 15 Jahren waren Kegelrobben in der Deutschen Bucht so gut wie ausgestorbenen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>可十五年前生活在德国海湾里的灰海豹却差点灭绝了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Seit es rund um die Insel ein Fischfang-Verbot gibt, sind sie wieder da.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>自从在小岛周围有了禁捕制度它们又都回来了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und lassen sich durch fast nichts aus der Ruhe bringen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>还一直闹腾不停</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Manche bekommen ihren Nachwuchs direkt neben der Landebahn des Inselflugplatzes.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>有的海豹妈妈直接在岛上机场的跑道边生下它们的宝宝</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn die Papas gerade mal nicht dösen, bringen sie manchmal etwas Unruhe in die Kolonie.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>海豹爸爸们不休息的话就会在族群里闹出点动静来</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bullen verteidigen ihr Revier und ihren Harem mit Gewalt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>他们用武力来捍卫后宫和江山</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Oder mit Gesang.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>或者用歌声</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Allgäuer Alpen liegen kurz vor Weihnachten unter einer dicken Schneedecke.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在圣诞节来临之前 阿尔高地区的阿尔卑斯山银装素裹</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Naturschutz-Experte Henning Werth beobachtet hier die größte Steinwild-Kolonie Deutschlands.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>自然保护专家亨尼希·韦斯在此发现了德国最大的野山羊群落</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Steinböcke waren in den Alpen fast ausgestorben.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>野山羊曾一度在阿尔卑斯山区绝迹</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Inzwischen haben sich von den Auswilderungsgebieten am Lech einige bis in Henning Werths Gebiet am Nebelhorn vorangetastet.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如今 它们又在莱希河的野化放归区和亨尼希·韦斯在雾笛峰的研究区域出没</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf der Suche nach Nahrung.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>寻找食物</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aber die schneereichen Lagen hier liegen den Steinböcken nicht besonders.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>野山羊对积雪重重的环境习以为常</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Biologen glauben, dass der Winter ihnen das Leben in den Nordalpen besonders schwer macht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>生物学家认为 冬天的到来让野山羊在阿尔卑斯山北部难以生存</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Dieser Bock springt von einem schneefreien Fleck zum nächsten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这只山羊在没有积雪的地方跳跃前行</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Böcke wiegen bis zu 120 Kilo und meiden jedes Schneefeld, in das sie einsacken könnten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们的体重可达120千克还要躲过每一处积雪以免深陷其中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In Henning Werths Revier hoch über Oberstdorf trotzen 150 Steinböcke den widrigen Lebensbedingungen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>亨尼希·韦斯所研究的地区 地势要高于奥伯斯特多夫村在这里 150只野山羊正与恶劣的生存条件作斗争</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die menschenleeren Flächen könnten viel mehr Tiere aufnehmen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>人烟稀少的地方 动物往往要多些</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nur an hochgelegenen Stellen bläst der Wind jetzt noch etwas Gras frei.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>所以只有在较高的山上才有草地</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und so unternehmen die Elterntiere mit den Geißen gewagte Klettertouren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>于是野山羊只能拖家带口 上山觅食</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Manche Route erweist sich jedoch als Sackgasse.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>有些路还是死胡同</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Zu viele kräftezehrende Irrwege kann sich bei dieser Witterung kein Steinbock leisten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>天气恶劣 路途不顺 种种险境耗费了野山羊大量的体力</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die neue Route führt die Steinbock-Familie endlich zum Ziel.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>山羊家族最终沿着新的路线到达目的地</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf einem ausgesetzten Hang ist der Schnee vom Wind fast weggeblasen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在裸露的斜坡上 积雪几乎被风吹尽</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Hier finden die Steinböcke gerade genug vertrocknetes Gras, um zu überleben.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在这里 山羊们找到了足够的干草来维持生存</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Das Leben hier auf über 2000 Metern Höhe ist in jedem Winter hart.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>要想在高于2千米的山上过冬 绝非易事</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Denn hier liegt am meisten und am längsten Schnee.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因为厚厚的积雪终年不化</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch wo kommt der Schnee eigenntlich her?</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这些积雪到底是从哪里来的呢</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Unsere Geschichte des Schnees beginnt 9 Kilometer über der Erde.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>雪的故事 还得从9000米的高空说起</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wo ein Mess-Ballon des Deutschen Wetterdienstes heute minus 50 Grad misst.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>德国气象服务站的测量气球今天在这里录得-50℃的气温</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Wassermoleküle in diesen Höhen sind wegen des geringen Drucks sehr beweglich.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>由于气压很小 水分子变得十分活跃</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und verbinden sich nur flüchtig.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>所以分子的结合并不稳定</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Würde man eine Milliarde davon in eine Reihe ketten, wäre die gerade mal einen Zentimeter lang.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>十亿个分子串联起来长度大概在1厘米左右</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch für dauerhafte Verbindungen braucht es hier oben etwas Dreck.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>尘埃有助于水分子更长久的结合</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Winzige Staub- oder Asche-Partikel, an denen die Wassermoleküle andocken.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>微小的尘粒就是很好的成核剂</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Weil sie aus zwei Wasserstoff- und einem Sauerstoffatom in einem speziellen Winkel bestehen, bilden sie dabei sechseckige Gitter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>水分子含有的两个氢原子和一个氧原子组成了一个六角的网格</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und schließlich sechseckige Eisplättchen, nur einen Zehntel Millimeter groß.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>最后形成六角薄片只有1/10毫米</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Sind sie schwer genug, taumeln sie langsam tiefer.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当它们达到一定重量时 便翩翩落下</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bis auf 5000 Meter, wo Fallschirmspringer für einen Höhensprung aussteigen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>落到5000米处也就是跳伞时的高度</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bei minus 25 Grad.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这里的气温大约在-25℃</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Selbst mit speziellen Anzügen rauschen die Springer mit über 100 Stundenkilometern in die Tiefe.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>跳伞者装备齐全 以百公里时速纵身跳下</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Sehr viel schneller als unsere Eisplättchen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这个速度明显比冰晶要快很多</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch egal, in welchem Tempo:</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不过 不管是什么速度</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Je tiefer es hinabgeht, desto wärmer wird es.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>温度随着下降的过程不断升高</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und desto höher wird der Luftdruck.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>气压也变得越来越大</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf dem Weg nach unten treffen unsere Eisplättchen</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>跳伞者在降落的过程中会遇上小冰晶</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>auf mikroskopisch kleine Wasserträpfchen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>显微镜下的小冰晶</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die an den Ecken anfrieren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>菱角处开始冻结</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>So wachsen zarte sechsarmige Sterne.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>长成了精致的六角星</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Keiner ist ist wie der andere.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每一个都独一无二</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Denn Wind und Wetter schaffen immer neue Kunstwerke.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>风和天气总会创造出不同的艺术品</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Zahl der theoretisch möglichen Varianten ist größer als die Zahl aller Atome im Weltall.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>冰晶千姿百态 它的种类甚至多于宇宙中原子的数量</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Jedes Schneekristall ist einzigartig.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们都是独一无二的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Im Sommer würden sie auf rund 3000 Metern Höhe schmelzen und als Regen niedergehen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>夏季 冰晶在3000米处开始消融化为雨水降落</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch an diesem Wintertag schweben sie bis hinab zu Schloss Neuschwanstein.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>而在这个寒冷的冬日 它们飘落到新天鹅堡</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>1000 Meter über dem Meeresspiegel sind es heute immer noch minus 10 Grad.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>今天 海平面以上1000米处 气温一直停留在-10℃</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Ab jetzt wachsen die Eissternchen nicht mehr,</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>自此小冰晶不再生长</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>sondern verhaken sich zu kleinen Flöckchen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们互相钩连 形成小雪花</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn es kalt und trocken ist.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>天气冷而干燥的时候 雪花比较小</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Oder zu großen Flocken, wenn es feuchter und wärmer wird.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>若温度和湿度高一些 就会形成大片的雪花</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Erst wenn es auf 500 Metern noch unter Null Grad ist, schneit es auch in Augsburg auf den Christkindlesmarkt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>若在500米以下的低空 气温在0℃以下奥格斯堡的圣诞市场才会下起雪来</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Pro Sekunde schafft eine Schneeflocke auf dem Weg zur Erde einen halben bis zwei Meter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每片雪花的下降速度大概在0.5到2米每秒</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>So kann es fünf Stunden dauern, bis sie den Weg aus den Wolken hinunter auf die Straßen von Köln geschafft hat.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因此雪花从云层降落到科隆要花5个小时</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Hier verwandelt sich die weiße Pracht schnell in Schneematsch.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>壮观的积雪很快融化成雪泥</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Denn der Boden ist zu warm.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因为地面温度很高</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wo es kälter ist wie hier in Kempten im Allgäu ziehen wir mit Räumfahrzeugen graue Spuren ins Winterweiß.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在阿尔高地区的肯普腾 温度则要低一些铲雪车在皑皑白雪中开出一条条灰色的道路</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Oder heizen in Außenpools dagegen an.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>室外恒温泳池在冰天雪地中别具一格</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch in München sind Straßen und Fußwege längst geräumt oder gestreut.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在慕尼黑 道路积雪也被清理干净 或采取了撒盐融雪的措施</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aus der Luft betrachtet zieht unser Alltag erstaunliche Muster in den Schnee.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>从空中俯瞰这片土地我们的生活也因为雪变得特别</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch auch wenn wir nicht eingreifen: Hat der Boden mehr als Null Grad, lässt er jede Schneeflocke sofort schmelzen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>就算不采取人为干涉的措施当地面温度高于0℃时地面积雪就会很快融化</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nur wenn sehr viel Schnee fällt, können selbst Bodentemperaturen von bis zu plus fünf Grad den Flocken nichts anhaben.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>除非雪下得很大那样 哪怕是到了5℃ 积雪也安然无恙</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der Boden kommt mit dem Aufwärmen nicht nach und wird von der Schneeschicht selbst ausgekühlt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这样一来 地面不再回暖而是被层层积雪封冻</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch wenn das bei uns immer seltener passiert:</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不过这在德国还是很罕见的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wissenschaftlich betrachtet leben wir seit über 2 Millionen Jahren in einer Eiszeit.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>科学研究表明 我们现在所处的冰期 从200万年前就开始了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Dass beide Polkappen vergletschert sind, ist erdgeschichtlich eher die Ausnahme.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>地球两极被冰雪覆盖这还是地球历史上的首次</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Was wir umgangssprachlich Eiszeit nennen, sind noch kältere Zwischenphasen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>我们平常所说的冰川时期是狭义的冰期 即大冰期中比较寒冷的时期</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Etwa die Saale-Periode vor rund 250.000 Jahren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>比如25万年前的萨勒河冰期</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Nordhälfte Deutschlands verschwand damals unter einem gigantischen Eispanzer.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当时德国的北半部分都被笼罩在巨大的冰盖之下</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Hätte es Berlin damals schon gegeben, müssten wir zwei Kilometer tief ins Eis hinabtauchen, um zum Fernsehturm vorzudringen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如果当时有柏林的话 要想到电视塔去我们首先要穿过2000米的冰层</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Zur selben Zeit schoben sich auch die Alpengletscher weit ins Alpenvorland.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>同一时期 阿尔卑斯冰川不断向山麓地区推进</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schloss Neuschwanstein wäre damals auf dem Grund eines tiefen Meeres aus Eis verschwunden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>新天鹅堡所在的位置还深埋在冰海之中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Als das Eis schmolz, füllten sich die großen Seen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>冰川消退 积水成湖</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vom Bodensee bis zum Chiemsee.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>也就形成了今天的博登湖 基姆湖等等</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vom gigantischen Eispanzer bleiben uns heute nur noch winzige Stippen hoch oben in den Bergen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当年巨大的冰盖大面积消退雪线移到了高山上</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Manchmal aber scheint die Eiszeit für ein paar Tage zurückzukehren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>有时 冰川时期好像又回来了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wie im Winter 2012.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>比如2012年的冬天</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Damals war es nicht einfach kalt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当时 怎一个冷字了得</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Es war klirrend kalt, und das nach heftigen Schneefällen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>刺骨的寒冷伴随着强降雪</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Von den höchsten Bergen bis in die Täler schienen die Alpen wie schock-gefroren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>从高山到深谷 自上而下阿尔卑斯山如被冰雪封印</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Seilbahnstation der Zugspitze wurde zu einem Eispalast.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>楚格峰的缆车站台俨然一座冰雪城堡</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und an allen Masten, Antennen und Gipfelkreuzen gefror der Schnee, noch während er vom Wind verweht wurde.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>积雪冻结在桅杆 天线以及山顶的十字架上任由风吹 积雪不散</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Selbst die steilsten Berggrate bekamen damals eine Glasur aus Schnee.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>连最陡峭的山脊 也被积雪覆盖</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und die Alpen wurden zur Kitsch-Postkarte.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>此时的阿尔卑斯山 宛如风景明信片</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Zur Landschaft, von der wir träumen, wenn wir uns weiße Weihnachten wünschen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>而我们 如在梦中游这就是我们所期盼的冰雪圣诞</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Das Weiße und Reine macht den Wintertraum romantisch.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>洁白纯净的雪使冬之梦更加浪漫</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Eine Wohltat für unsere Augen und unser Gehirn.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>堪称视觉与精神的双重享受</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Alles wird friedlich, ruhig und leise, wenn es unter diesem Zuckerguss verschwindet.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>万物宁静而祥和仿佛都隐匿在这糖霜般的白雪之下</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und wer je durch einen Winterwald gewandert ist, weiß:</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在冬日丛林里漫步的人都知道</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schnee wäre nicht Schnee, wäre er nicht weiß.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>雪若不是白色的 就不能称其为雪了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch Schnee besteht aus Wasser genau wie Eis. Warum ist er dann nicht durchsichtig?</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不过 既然雪与冰都来源于水为什么雪不是透明的呢</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Das Geheimnis liegt in der Lichtspiegelung.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这其中的奥秘在于光的反射</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Photonen, die Elementarteilchen, aus denen Licht besteht, werden in den Molekülgittern von Schneeflocken abgelenkt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>光子 即光的最小组成成分会被雪花的晶体分子冲散开来</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Ein Eiswürfel dagegen ist für uns durchsichtig, weil das Licht ihn auf fast geradem Wege durchdringt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>而冰块之所以是透明的是因为光能径直穿过它</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn sich Eiskristalle zu einer Schneeflocke ballen, wirken ihre Ecken und Spitzen wie kleine Spiegel.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当小冰晶聚成了雪花它们的边边角角就起到了小镜子的作用</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Sie lenken das Licht von Kristall zu Kristall, bis ein Kristall es in die Ursprungsrichtung zurückwirft.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>使光线在冰晶之间发生了折射直到冰晶把光线沿着最初的方向反射回去</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Da dabei alle Lichtfrequenzen gleichmäßig reflektiert werden, ergibt das für unser Auge reines Weiß.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>所有的光波都会被均匀地反射回来所以我们看到的雪是白色的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bei Neuschnee sitzen die obersten Eiskristalle noch unversehrt auf der Schneedecke.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>雪刚刚落下时雪层最上面的冰晶还未被损坏</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Ihre Miniatur-Spiegel sind noch intakt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们的小镜子还完好无缺</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Lenken sie helles Sonnenlicht in unsere Blickrichtung ab, sehen wir das als kleine Lichtblitze.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>冰晶将太阳光折射往我们的视线方向于是我们看见了雪花的闪光</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Das Bild der Sonne in Myriaden winziger Eisspiegel.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>太阳光在冰晶中闪耀</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Solange die Schneekristalle in der Schneedecke intakt bleiben, funkelt Schnee wie Diamanten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>只要雪花完好无损白雪就会像钻石一样闪闪发光</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Je älter der Schnee wird, desto stumpfer werden die Spiegel.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>雪停留在地面的时间渐长 冰晶也失去了原有的光彩</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch das Weiß bleibt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>然而 白色得以保留</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Staub und Schmutz werden ihm im Laufe der Zeit einen Grauschleier überziehen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>渐渐地 尘垢给白雪罩上了灰色的面纱</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und irgendwann taut der Schnee schließlich ganz.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>最终 雪会完全融化</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vielleicht liegt die Schönheit eines solchen Wintertraums gerade in seiner Vergänglichkeit.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>也许 冬之梦的美恰恰在于它的稍纵即逝</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch nicht nur der Schnee verändert unsere Welt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>然而 改变我们世界的不只是雪</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch das Wasser gefriert im Winter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>水在冬天也会结冰</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Manche Bergbäche haben im Laufe von Jahrtausenden tiefe Schluchten in den Fels gegraben.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>数千年来溪流在山间冲刷出了沟壑</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Jedes Jahr sprengt der Frost neue Bröckchen aus den Felsen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每年 冰霜使岩石碎裂</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Erosions-Waffen, die die Schlucht immer tiefer in den Berg fräsen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>流水的侵蚀 让峡谷继续纵深发展</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Ist das Gestein sehr hart, entsteht die steilste Form einer Schlucht: eine Klamm.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如果岩石坚硬无比沟壑便会异常陡峭 形成峡谷</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Breitachklamm bei Oberstdorf entstand im Laufe der letzten 10.000 Jahre.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>布赖塔赫峡谷位于奥伯斯多夫附近历时一万年才得以形成</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und sie ist noch immer in Arbeit.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>直至今日 流水侵蚀仍未停息</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bis zu 150 Meter stürzen die Wände der Schlucht hinab.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>岩壁间的沟壑深达150米</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Eine Kathedrale der Natur.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>堪称大自然的大教堂</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wo im Sommer das Wasser die Wände herunterrinnt, wachsen im Winter meterlange Eiszapfen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>夏季 水流行经之处在冬季就会形成数米长的冰柱</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und dekorieren die überhängenden Wände der Klamm wie Weihnachtsschmuck.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>装点着峡谷中的飞岩斜壁 如同圣诞节的装饰</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch Bäume, die immer wieder in die Schlucht hinabstürzen, tragen jetzt ein Kleid aus Schnee.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>峡谷里倒下的树木如今也披上了银装</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn in der zweieinhalb Kilometer langen Klamm die Wasserfälle zu Eis gefrieren, ist der Winter endgültig an der Macht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当2.5千米深的峡谷中飞瀑结成了冰 寒冬就来了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nicht nur der Kochelsee dampft jetzt in der Wintersonne.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在冬日的照耀下 柯和尔湖湖面笼罩着一层雾气</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch der Dampf täuscht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>让人产生了错觉</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Je ruhiger ein Gewässer, desto schneller friert es zu.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>水流越是平稳 湖水结冰的速度就越快</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und zwar zuerst an der Oberfläche.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>最先结冰的是上层的水</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bei 4 Grad hat Wasser die höchste Dichte und damit das größte Gewicht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>水在4℃时密度最大 重量也最大</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wird es noch kälter, nimmt die Dichte wieder ab.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当水温下降时 水的密度也会随之下降</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Kälteres Wasser steigt daher nach oben, wo es in der Sonne dampft.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因此温度较低的水抬升到水面上 在阳光下蒸发</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Werden die Moleküle bei Minusgraden immer langsamer, gefriert es zu Eis.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>气温低于0℃时 分子的运动减缓 水结成了冰</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und dehnt sich dabei weiter aus.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>冰层随之扩展</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Deswegen schwimmt Eis immer an der Oberfläche.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因此只有水面才会结冰</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Je größer ein Gewässer und je schneller es fließt, desto langsamer friert es zu.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>水流越是宽阔湍急结冰的速度就越慢</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn ganze Seen einfrieren, reicht die kalte Hand des Winters tief hinab ins Land.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当冰层覆盖了整个湖面这就意味着凛冽的寒冬已深入德国</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Salzach, Grenzfluss zwischen Deutschland und Österreich und einer der wasserreichsten Zuflüsse des Inn.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>萨尔察赫河是德国与奥地利的分界河也是发源于阿尔卑斯山的最大支流之一</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn sie komplett erstarrt, ist es wirklich kalt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>该河的封冻预示着极寒天气的来临</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Ihr blaues Eis wirkt fast so, als wäre der Fluss von der Kältewelle überrascht worden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>河面上的蓝色冰块仿佛在表达它们对寒潮的讶异</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und mitten im Fließen einfach eingefroren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>河水激流勇进 却在寒潮下突然封冻</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Selbst an der mächtigen Elbe bilden sich bei großer Kälte rasch erste Schollen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>甚至在宽广的易北河上 浮冰也在冷冽的天气迅速形成</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wie gigantische, meterlange Seerosenblätter treiben sie den Fluss entlang.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们宛如湖面上的雪莲花 簇拥绽放 绵延数米顺着河道漂浮在水面上</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Kleine Eisinseln gleiten im Strom.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这些小冰礁随着水流前行</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wie hier bei Lauenburg an der Elbe 40 km vor Hamburg.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>飘过劳恩堡 距离汉堡40公里的河畔小镇</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Immer mehr Zugvögel aus Sibirien kommen jetzt nach Deutschland, um hier zu überwintern.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如今 越来越多来自西伯利亚的候鸟 飞抵德国在这里过冬</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Denn trotz der Eiseskälte ist es bei uns im Vergleich zum Polarkreis angenehm warm.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>相较于极地的苦寒气候 对它们来说这里的低温已经算相对适宜的了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Einreisende Singschwäne und Wildgänse begegnen jetzt den letzten, verspätet ausreisenden Kranichen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>迁徙中的天鹅与灰雁偶遇了今年最后一批迁徙的鹤群</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Für den Rest des Winters aber gehört die Elbtalaue den Vögeln aus der Arktis.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在接下来的冬日里易北河畔的低洼地将属于这些从北极飞来的候鸟们</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Zu Hunderttausenden kommen sie jetzt zu uns.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>成百上千的候鸟迁徙至此</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aus Skandinavien und Russland.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们来自斯堪的纳维亚半岛与俄罗斯</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Einige ziehen nach ein paar Wochen noch weiter nach Westen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>其中一些候鸟只在此停留数周 随后再次西迁</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bis nach Ostfriesland, an den Niederrhein oder bis nach Holland.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>到荷兰弗里斯兰省东部 下莱茵地区 或荷兰西部</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Andere verbringen den ganzen Winter hier an der Elbe.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>其余的候鸟就在这易北河畔 度过整个冬季</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn die Wildgänse in der Abenddämmerung zu ihren Schlafplätzen fliegen, sinken die Temperaturen weiter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当灰雁伴着落日余晖回巢气温将再度下降</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Kein Problem für die Gäste vom Nordpol. Aber ein kleines Problem für uns Menschen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>对于来自北极的客人们 这并无大碍然而它却给我们人类带来小小的困扰</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Denn der Kälteeinbruch trifft auch den Hamburger Hafen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>冰冷的寒潮同时也会侵袭汉堡港</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Über 10.000 Schiffe laufen hier jedes Jahr ein und aus.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每年有逾一万艘货船出入于此</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Mit bis zu 140 Millionen Tonnen Waren insgesamt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>港口吞吐量总计超过了一亿四千万吨</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Was für uns beinahe romantisch aussieht, versetzt die Logistik-Branche in Atemnot.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在我们眼中近乎浪漫的冬日景象却使物流行业处于紧张状态</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Denn wenn Umschlagplätze wie der Hamburger Hafen zufrieren, kommt der Warenverkehr bei uns zum Erliegen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因为汉堡港是货物中转站 如果港口运转因冰封而停止那物流将陷入瘫痪</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Hamburg ist der größte Seehafen Deutschlands und der drittgrößte in Europa.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>汉堡是德国最大 欧洲排名第三的港口城市</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Seit 1968 der erste Stahl-Container im Hamburger Hafen abgefertigt wurde, hat sich alles verändert.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>自从1968年 第一艘集装箱货运船在此停泊一切都发生了改变</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Am Container-Terminal Burchardtkai werden heute auf große Frachtschiffe bis zu 5000 Container umgeschlagen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如今汉堡港的布尔克哈特码头可以容纳近五千个集装箱</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und hunderte von Eisenbahnwaggons werden Tag für Tag be- und entladen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>上百节火车车厢日以夜继地运作着 用以装卸货物</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch bei Kältewellen muss der Betrieb hier immer weiterlaufen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>即使寒潮来临 这里的运作也不会停止</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>An eiskalten Tagen beginnt deshalb der stete Kampf gegen das Eis.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在寒冷的冬日里 对结冰的抗争时刻不能停息</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Millionen Container werden hier jedes Jahr durchgeschleust.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每年有九百万个集装箱在此装卸</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch an diesem Februartag droht der Stillstand.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>然而在二月 河水面临着结冰的风险</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schlepper und Eisbrecher sind unermüdlich im Einsatz, um die Fahrrinnen eisfrei zu halten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>为了保持航道的畅通无阻拖船与破冰船不知疲惫地运转着</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Es sind minus 18 Grad.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>气温已是零下十八度</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wo das Eis nicht ständig gebrochen wird, friert die Elbe in wenigen Stunden zu.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如果不持续打破冰层几小时之内河面又将被封冻</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Würde hier alles einfrieren, ginge unseren Fabriken der Nachschub aus.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>如果港口的运转因冰封停止 我们的工厂会失去供给</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und in den Supermärkten blieben Regale leer.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>紧接着超市也会弹尽粮绝</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>An der Mündung der Elbe kämpft sich die Hanjin Chongqing an Stade vorbei Richtung Hamburg.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在易北河的入海口处 Chongqing号刚刚驶过施塔德城奋力向着汉堡港的方向前行</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Das über 300 Meter lange Schiff gehört einer der größten Reedereien der Welt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这艘长度超过300米的大货轮属于韩进海运 它是世界上最大的海运公司之一</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Mit Firmensitz in Korea, fährt aber unter der Flagge Panamas.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>公司总部在韩国 但这次挂着巴拿马的旗帜航行</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Der moderne Waren-Transport ist wie so vieles moderne komplex.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这种现代化的货物运输就像一个集合体</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wollte man diese gesamte Fracht allerdings auf einen Schlag auf dem Land transportieren wäre der Güterzug über 40 Kilometer lang.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>假若对所有的货物进行陆路运输相当于一辆40千米长的列车承载量</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch auf der zugefrorenen Alster, mitten in der Hamburger Innenstadt, ist das Eis inzwischen 20 cm dick.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在汉堡内城区中心 阿尔斯特河上冰层厚达20厘米</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und zum Betreten freigegeben.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>人们可以在冰面上自由活动</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schlittschuhläufer und Spaziergänger genießen die neugewonnenen Flächen zum "Eisvergnügen" mitten in der Stadt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>城中新出现的这块"冰雪娱乐场"给滑冰和散步的人们带来了很多乐趣</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Inzwischen ist es so kalt, dass sich sogar in der Ostsee Eisschollen bilden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在此期间非常寒冷波罗的海海面上甚至凝结了大块浮冰</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wegen des Salzgehaltes geschieht das erst ab einer Wassertemperatur von minus 0,5 Grad.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>由于含盐量高这里的冰点降到了零下0.5°</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Das Fährschiff aus Finnland kommt mit dem Eis noch klar.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>从芬兰来的渡轮仍旧能够伴随着浮冰前行</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Ostsee friert allerdings nur sehr selten komplett zu.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>波罗的海很少会完全冻结住</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Im letzten Jahrhundert waren es gerade drei Mal.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在上个世纪也只有三次</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und so macht man sich in Travemünde noch keine Sorgen um den Schiffsverkehr.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因此人们并不担心在特拉弗明德的航运</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>An den Anlegern der Chiemseeflotte wie hier in Prien herrscht dagegen bereits Geisterstimmung.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>但在基姆湖船队的码头 比如在普林这个地方却死气沉沉</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Das "bayerische Meer" liegt im Winterschlaf.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>"巴伐利亚之海"处于冬眠之中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nur noch wenige Ausflugsdampfer mit winterfesten Touristen passieren jetzt die Fraueninsel.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>只有少量搭载比较抗寒旅客的游船会前往基姆湖的女人岛</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auf Schloss Herrenchiemsee hat man den Springbrunnen im Schlosspark Wintermützen aufgesetzt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在海伦基姆湖宫 人们给城堡公园里的喷泉戴上了冬天的帽子</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schloss Neuschwanstein besuchen jedes Jahr 1,5 Millionen Touristen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每年有150万游客参观新天鹅堡</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die wenigsten jedoch im Winter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>然而冬天人最少</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Erstaunlich, denn dem Märchenschloss steht das schneeweiße Kleid.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这令人诧异 因为这座童话般的城堡此时穿上了雪白的衣裙</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In den Bergen dagegen herrscht jetzt Hochsaison.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>相反 在山区现在可是旺季</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Abseits der Kunstschnee-Pisten machen Menschen das, was in unseren Breiten nur im richtigen Winter geht: Tourenski fahren.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>离开了人工滑雪道之后终于可以做一些只有冬天才能做的事: 观光式滑雪</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nicht nur am Watzmann-Hocheck.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不仅在瓦茨曼山巅</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nirgendwo ist der Winter so schön, wie auf einem halbwegs einsamen Berggipfel.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在任何孤零零的山峰攀登途中都能感受到冬季之美</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch nach heftigen Schneefällen droht bei solchen Wetterlagen Gefahr.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>但如果遭遇严重的降雪天气 则可能会有危险发生</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Am Anfang des Winters und im Frühjahr ist das Lawinen-Risiko am größten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>初冬和春季是雪崩风险最大的时候</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aber auch nach Regenfällen, starkem Neuschnee, starkem Wind oder extremen Temperatur-Umschwüngen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>但是在降雨后 强降雪后刮大风或者极端气温变化的情况下也会发生雪崩</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Immer wenn auf steilen Abhängen verschiedene Schneeschichten schlecht miteinander verbunden sind, wird es gefährlich.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>每逢陡坡上不同的积雪层大量堆积在一起之后 就会变得很危险</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch nicht mal Experten können verlässlich sagen, was genau ich unter einer Schneedecke verbirgt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>即使是专家也不能非常肯定地说在雪层下面藏着什么</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Fest steht: Bei der Entstehung von Lawinen spielen die kleinen Schneekristalle die entscheidende Rolle.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>可以确定的是 在雪崩产生时这些微小的雪花晶体起到了决定性作用</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn sie noch stark gezackt sind, verhaken sie sich und bilden eine zusammenhängende Schneeschicht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>当它们还是明显的锯齿状形态时 会互相卡住并且形成相互黏结的积雪层</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wind und Wetter verändern die Kristalle.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>风和恶劣天气会改变这些晶体</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aus lockerem Pulverschnee wird irgendwann körnig-zusammengepappter Firn.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在某个时候它们会从松散的粉末状变成彼此粘结的粒状</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schnee in den Bergen besteht aber fast immer aus jüngeren und älteren Schichten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>山区的雪几乎一直是依靠着新雪层和旧雪层赖以存在的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und selbst deren Kristalle verändern sich ständig.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>雪晶会稳定地变化</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Wenn zum Beispiel durch Sonneneinstrahlung Kristalle der obersten Schicht schmelzen, rinnt Wasser in tiefere und kältere Schichten, wo es wieder gefriert.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>比如说 积雪经阳光照射以后 表层雪溶化雪水会渗入到更深 更冷的雪层并且再次冻结</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Durch das Gewicht der darüber liegenden Schichten entstehen aber nur noch abgerundete Eispartikel.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>由于上方雪层的重量会产生圆球形的小冰粒</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die schlecht zusammenhalten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们会大量结合在一起</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Eine rutschige Unterlage für die oberen, festverhakten Schneeschichten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>上层紧实的积雪覆盖在打滑的基底上</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Geringe Druckveränderungen könnten jetzt ein Schneebrett auslösen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>现在只需要微小的压力变动就能引起雪板雪崩</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Durch das Gewicht eines Skifahrers etwa.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>比如一个滑雪者的重量</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Was am Nebelhorn bei Oberstdorf nach zuckersüßer Winter-Romantik aussieht, kann dann lebensgefährlich sein.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在位于奥伯斯多夫的内伯尔峰上 可以看到甜蜜的冬季浪漫景象但它可能危机四伏</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Bevor der Abfahrtstrubel hier beginnt, werden heute künstlich Lawinen ausgelöst.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在滑雪活动开始前将会人为地制造雪崩</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Sprengladungen vom Helikopter aus abgeworfen lassen Schneebretter zu Tal gehen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>直升机会扔下炸药包让雪板滑到山谷里</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>90% aller Lawinenopfer sterben in Schneebrett-Lawinen, die vom Menschen ausgelöst wurden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>百分之九十的雪崩遇难者都是死于这种人为引起的雪板雪崩</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Was jedoch bereits im Tal ist, kann niemanden mehr verschütten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>然而那些已经存于山谷中的东西 没人能够掩埋住它们</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Dortmund, 31.12., der Jahreswechsel naht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>多特蒙德 12月31日 临近跨年</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Mit Raketen und Böllern im Wert von über 120 Millionen Euro vertreibt ganz Deutschland kurz nach Mitternacht die bösen Geister.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>伴随着价值超过1.2亿欧元的烟花炮竹整个德国刚过午夜就开始驱赶恶灵了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Ob in Frankfurt oder Köln, überall lassen wir es so richtig knallen.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不管是在法兰克福还是在科隆 到处都是噼里啪啦的爆竹声</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Egal, ob in Düsseldorf oder in München.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>不管在杜塞尔多夫还是在慕尼黑</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Was in der Nacht kracht und leuchtet, liegt noch tagelang in der Luft.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>夜里的噼啪声和璀璨的亮光都将在空气中停留数日之久</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Belastung mit Feinstaub ist in den ersten Stunden des neuen Jahres vielerorts so hoch wie sonst im ganzen Jahr nicht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>而在新年最初的几小时中 许多地方空气中的悬浮颗粒甚至达到了整年都不曾有的强度</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aber schön ist es irgendwie trotzdem.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>即便如此 它确实是很美</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Diese Zeitraffer-Aufnahme der letzten Silvesternacht zeigt, wie den Dortmundern erst nach einer halben Stunde die Munition ausgeht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>去年除夕夜的快镜头记录显示了半小时之后 多特蒙德的烟花是怎样逐渐消散的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>In den Bergen geht der Winter auch im neuen Jahr erst mal weiter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>即使到了新年 山区的冬天仍然在继续</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und mancher Bergwaldbewohner freut sich schon jetzt auf den Frühling und das grüne Gras.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>但有些山林居民却已经开始期待春天和绿草了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schnee macht nicht nur Hirschen und Rehen das Leben um so beschwerlicher, je länger der Winter dauert.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>越来越漫长的冬季会让鹿和狍子们的生活变得越来越艰难</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Auch Steinböcke hoffen hinter schützenden Felsblöcken auf bessere Zeiten.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>野山羊也躲在安全的岩石后面期待着更舒适的时节</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Nur den Wildpferden in Dülmen ist der Winter egal.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>只有迪尔门的野马们完全不在意冬天</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Sie haben ausreichend dickes Fell.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>它们有足够厚的皮毛</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Im Hochallgäu versteckt sich eine Rotte Rotwild im tief verschneiten Bergwald.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>在高阿尔高地区 一群马鹿躲在了白雪皑皑的山林之中</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch irgendwann kommt der erste Wärmeeinbruch.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>然而在某个节点温暖总会降临</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Die Sonne geht endlich wieder früher auf und später unter.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>最终日照时间也会越来越长</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und mit der Frühlingssonne schmilzt der Schnee.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>伴随着春天的暖阳 冰雪渐渐消融</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Selbst am 2000 Meter hohen Untersberg.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>2000米高的温特斯山就是如此</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Aus den einst wohlgenährten Murmeltieren ist in den letzten sechs Monaten eine ausgemergelte Truppe geworden.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这些当初吃饱喝足的土拨鼠们在过去的六个月里已经变成了一支瘦瘪的队伍</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Denn mit jedem Monat Winterschlaf schrumpfen nicht nur Fettreserven und Muskelgewebe Sondern auch Darm, Leber und Nieren um fast die Hälfte.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>因为在冬眠的每个月里 不仅脂肪储备和肌肉组织还有肠道 肝脏以及肾脏都缩小了将近一半</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Vor allem Murmeltier-Väter sind jetzt ein Schatten ihrer selbst.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>土拨鼠爸爸们是窝里最虚弱的</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Doch ohne ihren selbstlosen Kuschel-Einsatz hätte keins der Jungtiere den Winter überlebt.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>但如果没有它们无私的保护这些小东西不可能活得过冬天</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Schlaftrunken spüren die abgemagerten Helden, dass der Frühling naht.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>这些消瘦的勇士们睡眼惺忪地感受到 春天近了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Endlich, endlich schmilzt der Schnee. Und der Winter ist geschafft.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>雪终于 终于融化了 冬天已经过去了</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Selbst am Funtensee, dem kältesten Ort in Deutschland, werden die Wiesen bald wieder grün.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>即使是在德国最冷的地方 冯腾湖草地也在慢慢变绿</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20200221T120159Z" creationid="TM STUDIO">
+            <tuv xml:lang="de-DE">
+                <seg>Und unser Wintermärchen ist vorbei.</seg>
+            </tuv>
+            <tuv xml:lang="zh-CN">
+                <seg>我们的冬天童话就这么结束了</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>
